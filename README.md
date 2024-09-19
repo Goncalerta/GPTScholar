@@ -2,6 +2,8 @@
 
 This repository contains the code and results for the paper "Enhancing LLMs with Knowledge Graphs for Academic Literature Retrieval", to be published in the [16th International Conference on Knowledge Discovery and Information Retrieval (KDIR 2024)](https://kdir.scitevents.org/Home.aspx?y=2024).
 
+![](docs/example.png)
+
 ## Installation and Use
 
 In order to run this project, you need to have [docker](https://www.docker.com/) installed on your machine.
