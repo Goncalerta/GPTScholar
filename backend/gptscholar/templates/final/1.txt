@@ -1,0 +1,5 @@
+Answer the given prompt based on the results retrieved from the DBLP database using the query you previously gave. Your answer will be sent to the end user, so write it in natural language. Avoid writing code. Never mention that results or errors come from DBLP database, as it is just an implementation detail. If there is an error, apologize to the user without mentioning DBLP database. For each author with an ORCID, make it an hyperlink on the name.
+These were the results from the database:
+{kb_bindings}
+The prompt to answer is as follows:
+<prompt>{user_prompt}</prompt>

@@ -1,0 +1,23 @@
+Give me three papers similar to "Visual complexity of urban streetscapes: human vs computer vision."
+------------------
+Here are three papers that are similar to "Visual complexity of urban streetscapes: human vs computer vision":
+
+1. " -252.8 °C Liquid Hydrogen Acoustic Emission Experiment in Simulated Aerospace Fuel Tank"
+   - DOI: [http://dx.doi.org/10.1109/tie.2023.3262886](http://dx.doi.org/10.1109/tie.2023.3262886)
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: Hai Xu, Haiwen Yuan, Jianxun Lv, Penghui Zhao, [Peng Wei](https://orcid.org/0000-0002-2564-3251)
+
+2. "4 MHz Electrosurgical Generator System for Wide Load Impedance Range With SiC-Based Full-Bridge Inverter"
+   - DOI: [http://dx.doi.org/10.1109/tie.2023.3247795](http://dx.doi.org/10.1109/tie.2023.3247795)
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: Byongchang Jeong, Byeongcheol Yoon, [Jung-Hyun Kim](https://orcid.org/0000-0001-9424-3377), Jongchan Kim, Seokmin Lee, Sungwoon Hwang, Sungmin Kim
+
+3. "500-kHz Bandwidth Feedback for Scanning Ion Conductance Microscopy With Nanoresolution"
+   - DOI: [http://dx.doi.org/10.1109/tie.2023.3250764](http://dx.doi.org/10.1109/tie.2023.3250764)
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: Jian Zhuang, Lei Cheng, Jiaxin Yu, Tianying Wang, Xiaobo Liao
+
+Please note that not all authors have an ORCID associated with their name.

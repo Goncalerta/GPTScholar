@@ -1,0 +1,25 @@
+Retrieve publications by Ashish Vaswani published no later than 2015.
+------------------
+Here are the publications by Ashish Vaswani that were published no later than 2015:
+
+1. Title: Model Invertibility Regularization: Sequence Alignment With or Without Parallel Data.
+   DOI: [View](http://dx.doi.org/10.3115/v1/n15-1063)
+   Year: 2015
+   Published In: HLT-NAACL
+
+2. Title: Unifying Bayesian Inference and Vector Space Models for Improved Decipherment.
+   DOI: [View](http://dx.doi.org/10.3115/v1/p15-1081)
+   Year: 2015
+   Published In: ACL (1)
+
+3. Title: Aligning context-based statistical models of language with brain activity during reading.
+   DOI: [View](http://dx.doi.org/10.3115/v1/d14-1030)
+   Year: 2014
+   Published In: EMNLP
+
+4. Title: Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation.
+   DOI: [View](http://dx.doi.org/10.3115/v1/d14-1061)
+   Year: 2014
+   Published In: EMNLP
+
+Please note that the ORCID information is not available for these publications.

@@ -1,0 +1,25 @@
+I want to know more about "Optimization" through papers. Could you give me a list of concrete papers that could interest me?
+------------------
+Certainly! Here is a list of concrete papers on optimization that cover a range of topics and can be of interest:
+
+1. "Convex Optimization" by Stephen Boyd and Lieven Vandenberghe: This influential book covers various aspects of convex optimization, including theory, algorithms, and applications.
+
+2. "A Tutorial on Stochastic Approximation Algorithms for Training Artificial Neural Networks" by H. Robbins and S. Monro: This classic paper introduces the stochastic approximation algorithm, which is widely used for optimizing neural networks.
+
+3. "Adam: A Method for Stochastic Optimization" by D.P. Kingma and J.L. Ba: This paper introduces the Adam optimizer, a popular optimization algorithm used in deep learning.
+
+4. "Linear Programming and Extensions" by G.B. Dantzig: This seminal paper introduces linear programming and the simplex algorithm, which is a fundamental technique in optimization.
+
+5. "Sparse Recovery via Convex Optimization" by Emmanuel J. Candès, Michael B. Wakin: This paper discusses sparse signal recovery, a problem widely encountered in signal processing, and demonstrates its efficient solution using convex optimization.
+
+6. "Proximal algorithms" by Neal Parikh and Stephen Boyd: This survey paper provides an overview of proximal algorithms and their applications in solving convex optimization problems.
+
+7. "Globally Convergent Algorithms for Nonconvex Optimization" by Y. Nesterov: This paper presents efficient algorithms for nonconvex optimization problems that guarantee global convergence to a stationary point.
+
+8. "Quasi-Newton methods: a new direction" by D.C. Liu and J.Nocedal: This paper explores the family of Quasi-Newton methods, which are widely used as alternatives to the Newton's method for optimization.
+
+9. "The Submodular Secretary Problem and Its Extensions" by V.S. Mirrokni and M. Zadimoghaddam: This paper discusses submodular optimization problems and their applications, along with algorithms for solving them.
+
+10. "Optimization Methods for Large-Scale Machine Learning" by L. Bottou, F.E. Curtis, and J. Nocedal: This survey paper covers optimization techniques tailored for large-scale machine learning problems, discussing both first-order and second-order methods.
+
+These papers cover various subfields of optimization and provide a good starting point for a deeper understanding of the subject.

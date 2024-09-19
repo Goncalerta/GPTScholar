@@ -1,0 +1,11 @@
+Give me 5 articles written by Dijkstra
+------------------
+1. "Go To Statement Considered Harmful" - This groundbreaking article by Dijkstra, published in 1968, argues against the use of the "go to" statement in programming languages, highlighting its detrimental effects on program readability and maintainability.
+
+2. "On the Cruelty of Really Teaching Computing Science" - In this thought-provoking piece, Dijkstra expresses his concern about the inadequate teaching methods in computer science education. He emphasizes the importance of a solid theoretical foundation and rigorous education in computer science.
+
+3. "A Case against the GOTO Statement" - Dijkstra further expands upon his criticisms of the "go to" statement in this article, published in 1973. He presents a compelling case against its use, arguing that structured programming constructs are essential for producing reliable and maintainable software.
+
+4. "The Humble Programmer" - This personal reflection by Dijkstra, originally published in 1972, highlights the qualities and mindset of a humble programmer. Dijkstra emphasizes the need for humility and modesty in software development, pointing out the complexity and challenges inherent in the field.
+
+5. "EWD on the Duality of Programming and Mathematical Reasoning" - In this article, Dijkstra explores the fundamental relationship between programming and mathematical reasoning. He argues that programming should be seen as a form of mathematical problem-solving, and highlights the importance of mathematical rigor in software development.

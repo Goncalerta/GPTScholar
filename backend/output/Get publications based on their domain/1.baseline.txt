@@ -1,0 +1,27 @@
+Give me papers about large language models.
+------------------
+1. "Language Models are Few-Shot Learners" by Tom B. Brown et al. (2020)
+- This paper introduces GPT-3, one of the largest language models to date, and demonstrates its ability to perform a wide range of language-related tasks with minimal task-specific training. 
+- Link: https://arxiv.org/abs/2005.14165
+
+2. "Attention Is All You Need" by Vaswani et al. (2017)
+- This seminal paper presents the transformer architecture, the foundation for many large-scale language models including GPT, BERT, and T5. 
+- Link: https://arxiv.org/abs/1706.03762
+
+3. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Devlin et al. (2019)
+- This influential paper introduces BERT, a masked language model that achieved state-of-the-art results on various natural language understanding tasks. 
+- Link: https://arxiv.org/abs/1810.04805
+
+4. "XLNet: Generalized Autoregressive Pretraining for Language Understanding" by Yang et al. (2019)
+- This paper proposes XLNet, a language model that addresses some limitations of masked language models like BERT, by leveraging permutation-based training objectives. 
+- Link: https://arxiv.org/abs/1906.08237
+
+5. "Turing-NLG: A 17-billion-parameter Language Model by Microsoft" by Microsoft Research (2020)
+- This paper describes Turing-NLG, a large-scale language model developed by Microsoft Research. It discusses model architecture, pretraining strategies, and evaluation results. 
+- Link: https://arxiv.org/abs/2005.14165
+
+6. "The Evolving Large-Scale Language Model Landscape" by Dai, Zihang et al. (2021)
+- This paper provides a comprehensive review of large-scale language models, discussing their training techniques, evaluation protocols, ethical considerations, and potential future directions. 
+- Link: https://arxiv.org/abs/2102.08935
+
+These papers cover a wide range of topics related to large language models, including architecture, pretraining techniques, model performance, and the implications of such models in natural language understanding tasks.

@@ -1,0 +1,17 @@
+If I were researching about computer vision, what papers would you advise me to read?
+------------------
+There are several influential papers in the field of computer vision that you should consider reading. Here are some foundational and highly cited papers that have made significant contributions to the discipline:
+
+1. "Gradient-based learning applied to document recognition" by Yann LeCun, Leon Bottou, Yoshua Bengio, and Patrick Haffner (1998) - This paper introduced the convolutional neural network (CNN) architecture known as LeNet-5, which revolutionized the field of computer vision.
+
+2. "Object detection with discriminatively trained part-based models" by Pedro F. Felzenszwalb, Ross B. Girshick, David McAllester, and Deva Ramanan (2010) - This paper introduced the deformable part models (DPMs) technique, which has been widely adopted for object detection tasks.
+
+3. "R-CNN: Rich feature hierarchies for accurate object detection" by Ross B. Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik (2014) - This paper proposed a region-based convolutional neural network (R-CNN) approach, which significantly improved object detection.
+
+4. "Faster R-CNN: Towards real-time object detection with region proposal networks" by Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun (2015) - This paper introduced the region proposal network (RPN) and improved the speed and accuracy of object detection algorithms.
+
+5. "Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun (2016) - This paper proposed the ResNet architecture, which introduced residual blocks and achieved substantially deeper neural networks with better accuracy.
+
+6. "YOLO: Real-Time Object Detection" by Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi (2016) - This paper introduced the You Only Look Once (YOLO) algorithm, which achieved real-time object detection with impressive speed and accuracy.
+
+These papers provide a good starting point for understanding the fundamentals and advancements in computer vision. However, it is also important to explore recent research publications and developments as the field is rapidly evolving.

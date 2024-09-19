@@ -1,0 +1,10 @@
+Give me 3 papers authored by Wayne Xin Zhao.
+------------------
+Here are 3 papers authored by Wayne Xin Zhao:
+1. "A Revisiting Study of Appropriate Offline Evaluation for Top-N Recommendation Algorithms." Published in ACM Trans. Inf. Syst. in 2023. [DOI:](http://dx.doi.org/10.1145/3545796)
+
+2. "A Survey of Large Language Models." Published in CoRR in 2023. [DOI:](http://dx.doi.org/10.48550/arxiv.2303.18223)
+
+3. "A Survey on Large Language Model based Autonomous Agents." Published in CoRR in 2023. [DOI:](http://dx.doi.org/10.48550/arxiv.2308.11432)
+
+Wayne Xin Zhao's ORCID is [0000-0002-8333-6196](https://orcid.org/0000-0002-8333-6196).

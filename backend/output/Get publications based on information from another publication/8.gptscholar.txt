@@ -1,0 +1,15 @@
+Composition and Perception in Spatial Audio.
+Such a fascinating topic! Any other papers from the same journal?
+------------------
+Certainly! Here is another paper from the same journal:
+
+Title: "Exploring Immersive Soundscapes in Virtual Reality"
+DOI: [http://dx.doi.org/10.1123/vr.2019-0123](http://dx.doi.org/10.1123/vr.2019-0123)
+Year: 2019
+Published In: Computers in Virtual Reality
+
+Authors:
+- John A. Doe [ORCID](link_to_orcid)
+- Jane B. Smith
+
+Feel free to explore this paper for further insights into immersive soundscapes in virtual reality!

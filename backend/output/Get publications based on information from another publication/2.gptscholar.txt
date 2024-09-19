@@ -1,0 +1,3 @@
+Fetch me publications published in the same journal as "Visual complexity of urban streetscapes: human vs computer vision."
+------------------
+I apologize, but there was an error retrieving the results from the database. Please try again later.

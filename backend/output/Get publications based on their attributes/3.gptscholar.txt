@@ -1,0 +1,35 @@
+I am interested in knowing if Leslie Lamport published any paper before the 80s. If so, what are they?
+------------------
+Yes, Leslie Lamport published several papers before the 80s. Here are some of his publications:
+
+1. Title: A general construction for expressing repetition.
+   Type: Article
+   DOI: http://dx.doi.org/10.1145/988071.988076
+   Year: 1979
+   Published in: ACM SIGPLAN Notices
+
+2. Title: A New Approach to Proving the Correctness of Multiprocess Programs.
+   Type: Article
+   DOI: http://dx.doi.org/10.1145/357062.357068
+   Year: 1979
+   Published in: ACM Trans. Program. Lang. Syst.
+
+3. Title: How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs.
+   Type: Article
+   DOI: http://dx.doi.org/10.1109/tc.1979.1675439
+   Year: 1979
+   Published in: IEEE Trans. Computers
+
+4. Title: On the Proof of Correctness of a Calendar Program.
+   Type: Article
+   DOI: http://dx.doi.org/10.1145/359156.359160
+   Year: 1979
+   Published in: Commun. ACM
+
+5. Title: The specification and proof of correctness of interactive programs.
+   Type: Inproceedings
+   DOI: http://dx.doi.org/10.1007/3-540-09541-1_37
+   Year: 1979
+   Published in: Mathematical Studies of Information Processing
+
+Please note that these are only a few examples. Leslie Lamport has published numerous other papers before the 80s.

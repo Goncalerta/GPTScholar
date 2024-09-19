@@ -1,0 +1,15 @@
+I intend to learn about deep learning. Which articles should I start reading?
+------------------
+Based on the results from the DBLP database, here are some articles about deep learning that you should start reading:
+
+1. "Diagnosis of PEM Fuel Cell System Based on Electrochemical Impedance Spectroscopy and Deep Learning Method." Published in IEEE Trans. Ind. Electron. in 2024. Authors: Guanghui Sun, Jianxing Liu, Jose Ignacio León Galván (ORCID: [0000-0001-5760-8066]), Jiyuan Kuang, Jianfeng Lv, and Zhongliang Yu.
+
+2. "DYnet++: A Deep Learning Based Single-Shot Phase-Measuring Deflectometry for the 3-D Measurement of Complex Free-Form Surfaces." Published in IEEE Trans. Ind. Electron. in 2024. Authors: Hyug-Gyo Rhee, The Manh Nguyen, and Young-Sik Ghim.
+
+3. "3-D deep learning detector for 5G networks." Published in Digit. Signal Process. in 2023. Author: Chung Buiquang.
+
+4. "3D Street Object Detection from Monocular Images Using Deep Learning and Depth Information." Published in J. Adv. Comput. Intell. Intell. Informatics in 2023. Authors: Longsheng Wei, Tao Zhang, Wei Liu, and Yun Ma.
+
+5. "3D vision-based out-of-plane displacement quantification for steel plate structures using structure-from-motion, deep learning, and point-cloud processing." Published in Comput. Aided Civ. Infrastructure Eng. in 2023. Authors: Tony T. Y. Yang and Xiao Pan.
+
+These articles cover various aspects of deep learning and are a good starting point for your learning journey. Enjoy reading!

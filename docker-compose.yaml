@@ -1,0 +1,50 @@
+version: '3'
+
+services:
+  fuseki:
+    image: stain/jena-fuseki
+    container_name: fuseki
+    ports:
+      - "3030:3030"
+    volumes:
+      - ./jena-fuseki/data:/fuseki
+    environment:
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
+      - TDB=1
+      - FUSEKI_DATASET_1=${FUSEKI_DATASET_1}
+
+  frontend:
+    container_name: frontend
+    build:
+      context: ./frontend
+    ports:
+      - 3000:3000
+    volumes:
+      - ./frontend:/app/frontend
+      - /app/frontend/node_modules
+    environment:
+      - WATCHPACK_POLLING=true
+      - REACT_APP_BACKEND_URL=${BACKEND_URL}
+  
+  backend:
+    container_name: backend
+    build:
+      context: ./backend
+    stdin_open: true
+    tty: true
+    ports:
+      - 5000:5000
+    volumes:
+      - ./backend:/app/backend
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=main.py
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - KB_SOURCE=${KB_SOURCE}
+      - LLM_SOURCE=${LLM_SOURCE}
+      - FRONTEND_URL=${FRONTEND_URL}
+      - FUSEKI_DOMAIN=${FUSEKI_DOMAIN}
+      - ADMIN_USERNAME=${ADMIN_USERNAME}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
+      - FUSEKI_DATASET=${FUSEKI_DATASET_1}
+      - FUSEKI_KG=${FUSEKI_KG}

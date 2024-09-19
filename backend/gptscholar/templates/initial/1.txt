@@ -1,0 +1,24 @@
+Create a SPARQL query to access the DBLP database and answer the given prompt. Your answer will be automatically fed to a SPARQL endpoint, so do not include any natural language text in your response. Note that there are multiple possible entries for ?doi. Only present the minimum ?doi per publication, so do not forget the GROUP BY. Note that the ?author may not have ?orcid. Note that converting ?year to an integer is not supported, so when comparing it, always compare with another string. Never include language tags such as @en or @fr in your answers, as it is not present in the database. IN and NOT IN operations are not supported. Do not substitute variables for strings directly, always use FILTER instead.
+Here is an example of accessing the SPARQL endpoint:
+```
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX dblp: <https://dblp.org/rdf/schema#> 
+
+SELECT ?title (min(?dois) as ?doi) ?year ?publishedIn ?authorName ?orcid WHERE {{
+?publication
+    dblp:doi ?dois ;
+    dblp:title ?title ;
+    dblp:authoredBy ?author ;
+    dblp:yearOfPublication ?year ;
+    dblp:publishedIn ?publishedIn .
+?author dblp:primaryCreatorName ?authorName .
+    OPTIONAL {{ ?author dblp:orcid ?orcid }}
+}} GROUP BY ?title ?type ?year ?publishedIn ?authorName ?orcid
+ORDER BY DESC(?year) ?title 
+```
+The publications only contain the following properties: dblp:title dblp:doi dblp:authoredBy dblp:publishedIn dblp:yearOfPublication rdf:type rdfs:label dblp:bibtexType dblp:numberOfCreators dblp:primaryDocumentPage dblp:pagination
+The authors only contains the following properties: dblp:primaryCreatorName dblp:orcid
+?type can only be one of the following: dblp:Article dblp:Inproceedings dblp:Book dblp:Incollection dblp:Data dblp:Editorship dblp:Informal dblp:Publication dblp:Reference dblp:Withdrawn
+The prompt to answer is as follows:
+<prompt>{user_prompt}</prompt>

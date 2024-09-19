@@ -1,0 +1,65 @@
+Zaojun Fang is an author. What are his papers?
+------------------
+Zaojun Fang has authored several papers. Here are some of his papers:
+
+1. Title: Assembly Configuration Representation and Kinematic Modeling for Modular Reconfigurable Robots Based on Graph Theory
+   Published in: Symmetry
+   Year: 2022
+   Type: Article
+   DOI: [Link](http://dx.doi.org/10.3390/sym14030433)
+
+2. Title: Design and Modeling of a Compound Twisted and Coiled Actuator Based on Spandex Fibers and an SMA Skeleton
+   Published in: IEEE Robotics Autom. Lett.
+   Year: 2022
+   Type: Article
+   DOI: [Link](http://dx.doi.org/10.1109/lra.2021.3137567)
+
+3. Title: Real-time Local Feature with Global Visual Information Enhancement
+   Published in: CoRR
+   Year: 2022
+   Type: Informal
+   DOI: [Link](http://dx.doi.org/10.48550/arxiv.2211.10981)
+
+4. Title: Research on Hybrid Flow-shop Scheduling Based on INSGA-II Algorithm
+   Published in: RICAI
+   Year: 2022
+   Type: Inproceedings
+   DOI: [Link](http://dx.doi.org/10.1145/3584376.3584573)
+
+5. Title: Tension reduction method for a modular cable-driven robotic arm with co-shared cables
+   Published in: Intell. Serv. Robotics
+   Year: 2022
+   Type: Article
+   DOI: [Link](http://dx.doi.org/10.1007/s11370-021-00399-y)
+
+6. Title: A Deep Learning-Based Semantic Filter for RANSAC-Based Fundamental Matrix Calculation and the ORB-SLAM System
+   Published in: IEEE Access
+   Year: 2020
+   Type: Article
+   DOI: [Link](http://dx.doi.org/10.1109/access.2019.2962268)
+
+7. Title: An Accuracy Enhancement Method for a Cable-Driven Continuum Robot With a Flexible Backbone
+   Published in: IEEE Access
+   Year: 2020
+   Type: Article
+   DOI: [Link](http://dx.doi.org/10.1109/access.2020.2975087)
+
+8. Title: Kinematic Design of a 2R1T Robotic End-Effector With Flexure Joints
+   Published in: IEEE Access
+   Year: 2020
+   Type: Article
+   DOI: [Link](http://dx.doi.org/10.1109/access.2020.2982185)
+
+9. Title: A Nonsqueezing Torque Distribution Method for an Omnidirectional Mobile Robot with Powered Castor Wheels
+   Published in: ICIRA (1)
+   Year: 2019
+   Type: Inproceedings
+   DOI: [Link](http://dx.doi.org/10.1007/978-3-030-27526-6_62)
+
+10. Title: A Two-Step Self-calibration Method with Portable Measurement Devices for Industrial Robots Based on POE Formula
+    Published in: ICIRA (1)
+    Year: 2019
+    Type: Inproceedings
+    DOI: [Link](http://dx.doi.org/10.1007/978-3-030-27526-6_63)
+
+Please note that some of the papers may not have a corresponding DOI.

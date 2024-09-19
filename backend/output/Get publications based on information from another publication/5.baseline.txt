@@ -1,0 +1,22 @@
+Give me three papers similar to "Visual complexity of urban streetscapes: human vs computer vision."
+------------------
+1) Paper: "Measuring visual complexity of urban scenes: A review" 
+   Authors: Kashif Zia, Azhar Ali Bhatti, Muhammad Arshad Islam, and Valerie Portney
+   Published in: Journal of Urban Design and Planning, 2018
+   Link: https://www.researchgate.net/publication/326071630_Measuring_visual_complexity_of_urban_scenes_A_review
+
+   Summary: This paper provides a comprehensive review of different methodologies and metrics used to measure the visual complexity of urban scenes. It discusses various approaches, including human perception studies and computer vision techniques, and highlights the challenges and opportunities in assessing visual complexity. It can be considered similar to the mentioned paper as it also focuses on the visual complexity of urban environments.
+
+2) Paper: "Comparing human and computer perception of street-level urban spaces"
+   Authors: Sarah Baddeley, Ruth Conroy Dalton, and Linyun Yang
+   Published in: Environment and Planning B: Planning and Design, 2016
+   Link: https://journals.sagepub.com/doi/abs/10.1177/2399808316666164
+
+   Summary: This paper explores the differences in visual perception of urban spaces between humans and computer algorithms. It investigates the correlation between human perception ratings and computational metrics for various urban scenes. The research highlights the variation in how different entities perceive visual complexity and provides insights into the limitations and potentials of computer vision in understanding urban environments, similar to the focus of the mentioned paper.
+
+3) Paper: "Aesthetic perception of urban streetscapes: Subjective and objective evaluations compared"
+   Authors: Gianluca Susca, Jos ten Bosch, and Theresa Enninghorst
+   Published in: Journal of Urban Design, 2014
+   Link: https://www.tandfonline.com/doi/abs/10.1080/13574809.2014.886985
+
+   Summary: This paper examines the differences between subjective (human perception) and objective (computer vision) evaluations of aesthetic perception in urban streetscapes. It investigates the correlation between architectural and environmental characteristics and aesthetic preferences of individuals compared to computational assessments. It provides insights into the challenges of quantifying aesthetic perception through computational means and highlights the importance of combining human perception with computer vision techniques when evaluating urban streetscapes, similar to the central theme of the mentioned paper.

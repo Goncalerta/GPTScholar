@@ -1,0 +1,61 @@
+If I were researching about computer vision, what papers would you advise me to read?
+------------------
+Based on my research, I would advise you to read the following papers on computer vision:
+
+1. Title: "1st Workshop on Maritime Computer Vision (MaCVi) 2023: Challenge Results."
+   Type: Inproceedings, Publication
+   Year: 2023
+   Published In: WACV (Workshops)
+   Authors: 
+   - Adem Atmaca
+   - [Alexandre Bernardino](https://orcid.org/0000-0003-3991-1269)
+   - [Dacheng Tao](https://orcid.org/0000-0001-7225-5449)
+   - Chenhao Tan
+   - [Adam Herout](https://orcid.org/0000-0003-2143-9314)
+   - Delong Liu
+   - [Andrea Loddo](https://orcid.org/0000-0002-6571-3816)
+   - Cheng-Yen Yang
+   - Daitao Xing
+   - [Cecilia Di Ruberto](https://orcid.org/0000-0003-4641-0307)
+   - Alexandre Alahi
+   - [Christophe De Vleeschouwer](https://orcid.org/0000-0001-5049-2929)
+   - Arpita Vats
+   - Eui-ik Jeon
+   - Anthony Tzes
+   - Benjamin Kiefer
+   - Chih-Chung Hsu
+   - [Fabio Poiesi](https://orcid.org/0000-0002-9769-1279)
+   - [Jakub Spanhel](https://orcid.org/0000-0003-2980-5614)
+   - Haiwen Li
+   - Impyeong Lee
+   - Kwangju Kim
+   - [Janez Pers](https://orcid.org/0000-0002-6039-6110)
+   - Lars Wilko Sommer
+   - [Jenni Raitoharju](https://orcid.org/0000-0003-4631-9298)
+   - Hongpu Zhang
+   - [Jenq-Neng Hwang](https://orcid.org/0000-0002-8877-2421)
+   - Jan Lukas Augustin
+   - Hai Nguyen-Truong
+   - Kyoungoh Lee
+   - Fabio Augusto de Alcantara Andrade
+   - Hsiang-Wei Huang
+   - [Jing Zhang](https://orcid.org/0000-0001-6595-7661)
+   - Hangyue Zhao
+   - Luca Zedda
+   - [Qiming Zhang](https://orcid.org/0000-0003-0060-0543)
+   - Pyong-Kun Kim
+   - Raphael Spraul
+   - Neelanjan Bhowmik
+   - Nikolaos Evangeliou
+   - Niharika Hegde
+   - Matthew Dawkins
+   - [Ramesh Ashok Tabib](https://orcid.org/0000-0003-3211-9439)
+   - Mau-Tsuen Yang
+   - [Matej Kristan](https://orcid.org/0000-0002-4252-4342)
+   - [Long Lan](https://orcid.org/0000-0002-4238-8985)
+   - Lojze Zust
+   - Yanyun Zhao
+   - Yitong Quan
+   - Vojtech Bartl
+
+Please note that not all authors have an ORCID. For authors with an ORCID, their names are hyperlinked to their respective ORCID profiles. Happy reading!

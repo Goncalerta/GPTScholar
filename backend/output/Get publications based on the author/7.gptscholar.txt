@@ -1,0 +1,65 @@
+I want to know more about Pedro Amorim. What papers did he write?
+------------------
+Pedro Amorim has written several papers. Here are the titles and details of his publications:
+
+1. Title: "Playing hide and seek: tackling in-store picking operations while improving customer experience."
+   Published In: CoRR
+   Year: 2023
+   Type: Publication, Informal
+   DOI: [Link](http://dx.doi.org/10.48550/arxiv.2301.02142)
+
+2. Title: "Robust supply chain design with suppliers as system integrators: an aerospace case study."
+   Published In: Int. J. Prod. Res.
+   Year: 2023
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1080/00207543.2022.2099769)
+
+3. Title: "The Impact of Committing to Customer Orders in Online Retail."
+   Published In: Manuf. Serv. Oper. Manag.
+   Year: 2023
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1287/msom.2022.1124)
+
+4. Title: "Driving Supply to Marketplaces: Optimal Platform Pricing When Suppliers Share Inventory."
+   Published In: Manuf. Serv. Oper. Manag.
+   Year: 2022
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1287/msom.2022.1105)
+
+5. Title: "Fostering Customer Bargaining and E-Procurement Through a Decentralised Marketplace on the Blockchain."
+   Published In: IEEE Trans. Engineering Management
+   Year: 2022
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1109/tem.2020.3021242)
+
+6. Title: "Heuristic Approaches for the Stochastic Multi-depot Vehicle Routing Problem with Pickup and Delivery."
+   Published In: WCO@FedCSIS
+   Year: 2022
+   Type: Publication, Inproceedings
+   DOI: [Link](http://dx.doi.org/10.1007/978-3-030-82397-9_2)
+
+7. Title: "Performance evaluation of problematic samples: a robust nonparametric approach for wastewater treatment plants."
+   Published In: Ann. Oper. Res.
+   Year: 2022
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1007/s10479-022-04629-z)
+
+8. Title: "Digitalization and omnichannel retailing: Innovative OR approaches for retail operations."
+   Published In: Eur. J. Oper. Res.
+   Year: 2021
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1016/j.ejor.2021.04.049)
+
+9. Title: "On the Value of Subscription Models for Online Grocery Retail."
+   Published In: Eur. J. Oper. Res.
+   Year: 2021
+   Type: Publication, Article
+   DOI: [Link](http://dx.doi.org/10.1016/j.ejor.2020.05.011)
+
+10. Title: "Recent dynamic vehicle routing problems: A survey."
+    Published In: Comput. Ind. Eng.
+    Year: 2021
+    Type: Article, Publication
+    DOI: [Link](http://dx.doi.org/10.1016/j.cie.2021.107604)
+
+Please note that Pedro Amorim does not have an ORCID associated with his name.

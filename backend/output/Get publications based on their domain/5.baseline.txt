@@ -1,0 +1,25 @@
+I am interested in "Machine Learning". Could you give me a list of papers about it?
+------------------
+Certainly! Here is a list of influential papers in the field of machine learning:
+
+1. "A Few Useful Things to Know About Machine Learning" by Pedro Domingos (2012)
+
+2. "The Unreasonable Effectiveness of Data" by Alon Halevy, Peter Norvig, and Fernando Pereira (2009)
+
+3. "Deep learning" by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton (2015)
+
+4. "A Few Convolutional Neural Networks" by Yann LeCun, Leon Bottou, Yoshua Bengio, and Patrick Haffner (1998)
+
+5. "Large-scale matrix factorization with distributed stochastic gradient descent" by Danny Bickson and Carlos Guestrin (2011)
+
+6. "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto (2018)
+
+7. "A Practical Bayesian Framework for Backpropagation Networks" by Radford M. Neal (1995)
+
+8. "The Nature of Statistical Learning Theory" by Vladimir N. Vapnik (1995)
+
+9. "Random Forests" by Leo Breiman (2001)
+
+10. "Support-Vector Networks" by Corinna Cortes and Vladimir Vapnik (1995)
+
+These papers cover a variety of topics within machine learning, including deep learning, reinforcement learning, neural networks, and other fundamental concepts.

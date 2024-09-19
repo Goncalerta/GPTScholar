@@ -1,0 +1,63 @@
+Give me papers written in the same year as "World-wide web: the information universe."
+------------------
+Here are some papers written in the same year as "World-wide web: the information universe":
+
+1. Title: '-Fuzzy Extremally Disconnected Ideal Topological Spaces.'
+   DOI: [http://dx.doi.org/10.5391/ijfis.2010.10.1.001](http://dx.doi.org/10.5391/ijfis.2010.10.1.001)
+   Published In: Int. J. Fuzzy Log. Intell. Syst.
+   Year: 2010
+   Authors: S. Ahmed Abd El-Baki, Yaser M. Saber
+
+2. Title: '-Possibility of ESL-: a software centric system design for multicore SoC in the upstream phase.'
+   DOI: [http://dx.doi.org/10.1109/aspdac.2010.5419779](http://dx.doi.org/10.1109/aspdac.2010.5419779)
+   Published In: ASP-DAC
+   Year: 2010
+   Author: Koichiro Yamashita
+
+3. Title: '-Structures Applied to Closed Ideals in BCH-Algebras.'
+   DOI: [http://dx.doi.org/10.1155/2010/943565](http://dx.doi.org/10.1155/2010/943565)
+   Published In: Int. J. Math. Math. Sci.
+   Year: 2010
+   Authors: Eun Hwan Roh, Mehmet Ali Öztürk, Young Bae Jun
+
+4. Title: '-Subalgebras in BCK/BCI-Algebras Based on Point -Structures.'
+   DOI: [http://dx.doi.org/10.1155/2010/303412](http://dx.doi.org/10.1155/2010/303412)
+   Published In: Int. J. Math. Math. Sci.
+   Year: 2010
+   Authors: Chul Hwan Park, Min Su Kang, Young Bae Jun
+
+5. Title: ': Role-Differentiated Cooperative Deceptive Data Detection and Filtering in VANETs.'
+   DOI: [http://dx.doi.org/10.1109/tvt.2010.2040400](http://dx.doi.org/10.1109/tvt.2010.2040400)
+   Published In: IEEE Trans. Veh. Technol.
+   Year: 2010
+   Authors: Kewei Sha, Shinan Wang, Weisong Shi ([ORCID](https://orcid.org/0000-0001-5864-4675))
+
+6. Title: '.NET Reverse Engineering with MARPLE.'
+   DOI: [http://dx.doi.org/10.1109/icsea.2010.41](http://dx.doi.org/10.1109/icsea.2010.41)
+   Published In: ICSEA
+   Year: 2010
+   Authors: Claudia Raibulet ([ORCID](https://orcid.org/0000-0002-7194-3159)), Francesca Arcelli Fontana ([ORCID](https://orcid.org/0000-0002-1195-530X)), Davide Franzosi
+
+7. Title: "''Blacks Deserve Bodies Too!'': Design and Discussion About Diversity and Race in a Tween Virtual World."
+   DOI: [http://dx.doi.org/10.1177/1555412009351261](http://dx.doi.org/10.1177/1555412009351261)
+   Published In: Games Cult.
+   Year: 2010
+   Authors: Deborah A. Fields ([ORCID](https://orcid.org/0000-0003-1627-9512)), Melissa S. Cook, Yasmin B. Kafai ([ORCID](https://orcid.org/0000-0003-4018-0491))
+
+8. Title: "''Stealing From Grandma'' or Generating Cultural Knowledge?: Contestations and Effects of Cheating in a Tween Virtual World."
+   DOI: [http://dx.doi.org/10.1177/1555412009351262](http://dx.doi.org/10.1177/1555412009351262)
+   Published In: Games Cult.
+   Year: 2010
+   Authors: Deborah A. Fields ([ORCID](https://orcid.org/0000-0003-1627-9512)), Yasmin B. Kafai ([ORCID](https://orcid.org/0000-0003-4018-0491))
+
+9. Title: "'[B]ut this is blog maths and we're free to make up conventions as we go along': Polymath1 and the modalities of 'massively collaborative mathematics'."
+   DOI: [http://dx.doi.org/10.1145/1832772.1832786](http://dx.doi.org/10.1145/1832772.1832786)
+   Published In: Int. Sym. Wikis
+   Year: 2010
+   Author: Michael J. Barany
+
+10. Title: "'Active contour without edges', on parametric manifolds."
+    DOI: [http://dx.doi.org/10.1117/12.841023](http://dx.doi.org/10.1117/12.841023)
+    Published In: Medical Imaging: Image Processing
+    Year: 2010
+    Authors: Allen R. Tannenbaum ([ORCID](https://orcid.org/0000-0002-0567-5256)), Yi Gao ([ORCID](https://orcid.org/0000-0003-0094-8136))

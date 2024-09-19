@@ -1,0 +1,15 @@
+Give me articles about generative music.
+------------------
+Here are some articles about generative music:
+
+1. "Creativity in Generative Musical Networks: Evidence From Two Case Studies." Published in Frontiers Robotics AI in 2021. This article is authored by Agustin Macaya, Denis Parra, Manuel Cartagena, and Rodrigo F. Cádiz. Unfortunately, there are no ORCID links available for the authors.
+
+2. "Generative music in video games: State of the art, challenges, and prospects." Published in Entertain. Comput. in 2020. This article is authored by Cale Plut and Philippe Pasquier. Philippe Pasquier has an ORCID which you can find [here](https://orcid.org/0000-0001-8675-3561).
+
+3. "Generative music video composition: using automation to extend creative practice." Published in Digit. Creativity in 2015. This article is authored by Andrew R. Brown and Julia Stefan. Unfortunately, there are no ORCID links available for the authors.
+
+4. "Generative Musical Tension Modeling and Its Application to Dynamic Sonification." Published in Comput. Music. J. in 2012. This article is authored by Bruce Walker, Gil Weinberg, and Ryan Nikolaidis. Unfortunately, there are no ORCID links available for the authors.
+
+5. "The Interrogator as Critic: The Turing Test and the Evaluation of Generative Music Systems." Published in Comput. Music. J. in 2009. This article is authored by Christopher Ariza. Unfortunately, there are no ORCID links available for the author.
+
+Please note that these articles were retrieved from the database and they focus on the topic of generative music.

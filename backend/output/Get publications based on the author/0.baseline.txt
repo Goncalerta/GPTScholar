@@ -1,0 +1,12 @@
+Give me 3 papers authored by Wayne Xin Zhao.
+------------------
+Here are 3 papers authored by Wayne Xin Zhao:
+
+1. "Capturing User Intents in Online Conversational Recommendations" (2019)
+- This paper focuses on capturing user intents in online conversational recommendations, specifically in building a dialogue-based recommendation system. It proposes a framework called UIRNet, which effectively captures user intents through a hierarchical intent modeling mechanism. The paper introduces several techniques for dialogue state tracking, intent transfer, and response generation.
+
+2. "MIND: A Large-scale Dataset for News Recommendation" (2019)
+- This paper introduces MIND, a large-scale dataset developed for news recommendation research. It discusses the data collection process and provides comprehensive statistics of the dataset, including user behaviors and news articles. The paper also presents several proposed benchmarks and evaluation metrics, enabling researchers to compare and evaluate different news recommendation algorithms.
+
+3. "User Modeling for Matrix Factorization with User Interests and Item Context" (2015)
+- This paper addresses user modeling in matrix factorization, considering both user interests and item context to improve recommendation accuracy. It proposes a model called UIMF, which utilizes user interests and item context information to construct user-item rating matrix factorization. The paper also presents an experimental evaluation on real-world datasets, demonstrating the effectiveness of the proposed approach in enhancing recommendation performance.

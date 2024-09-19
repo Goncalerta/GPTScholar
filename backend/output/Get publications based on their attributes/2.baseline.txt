@@ -1,0 +1,25 @@
+Is there any paper about "Machine Learning" published before the year 2019? Give me a list of them.
+------------------
+Certainly! Here is a list of influential papers on "Machine Learning" that were published before the year 2019:
+
+1. Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain. Psychological Review, 65(6), 386-408.
+
+2. Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433-460.
+
+3. Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5-32.
+
+4. Vapnik, V. N. (1995). The Nature of Statistical Learning Theory. Springer Science & Business Media.
+
+5. Bishop, C. M. (1995). Neural Networks for Pattern Recognition. Oxford University Press.
+
+6. Kohonen, T. (1982). Self-organized Formation of Topologically Correct Feature Maps. Biological Cybernetics, 43(1), 59-69.
+
+7. Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd edition). Springer Science & Business Media.
+
+8. Hinton, G. E., & Salakhutdinov, R. (2006). Reducing the Dimensionality of Data with Neural Networks. Science, 313(5786), 504-507.
+
+9. LeCun, Y., Bengio, Y., & Hinton, G. E. (2015). Deep Learning. Nature, 521(7553), 436-444.
+
+10. Cover, T. M., & Hart, P. E. (1967). Nearest Neighbor Pattern Classification. Information Theory, IEEE Transactions on, 13(1), 21-27.
+
+Please note that the list above includes some of the most influential papers in the field, but it is not an exhaustive list of all papers on "Machine Learning" published before 2019.

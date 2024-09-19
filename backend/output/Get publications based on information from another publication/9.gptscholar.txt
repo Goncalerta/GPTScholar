@@ -1,0 +1,35 @@
+Towards Explaining Shortcut Learning Through Attention Visualization and Adversarial Attacks. I want to read more papers that talk about at least one of the same topics. Could you give me a list of them?
+------------------
+Certainly! Here is a list of papers related to the topics of "Shortcut Learning," "Attention Visualization," and "Adversarial Attacks" that you may find interesting:
+
+1. **Title:** "(Compress and Restore)N: A Robust Defense Against Adversarial Attacks on Image Classification."
+   - **DOI:** [http://dx.doi.org/10.1145/3524619](http://dx.doi.org/10.1145/3524619)
+   - **Published In:** ACM Trans. Multim. Comput. Commun. Appl.
+   - **Year:** 2023
+   - **Authors:** Federico Becattini ([Orcid](https://orcid.org/0000-0003-2537-2700)), Claudio Ferrari, Alberto Del Bimbo ([Orcid](https://orcid.org/0000-0002-1052-8322)), Leonardo Galteri ([Orcid](https://orcid.org/0000-0002-7247-9407))
+
+2. **Title:** "2N labeling defense method against adversarial attacks by filtering and extended class label set."
+   - **DOI:** [http://dx.doi.org/10.1007/s11042-022-14021-5](http://dx.doi.org/10.1007/s11042-022-14021-5)
+   - **Published In:** Multim. Tools Appl.
+   - **Year:** 2023
+   - **Authors:** Gábor Szücs, Richárd Kiss
+
+3. **Title:** "3D adversarial attacks beyond point cloud."
+   - **DOI:** [http://dx.doi.org/10.1016/j.ins.2023.03.084](http://dx.doi.org/10.1016/j.ins.2023.03.084)
+   - **Published In:** Inf. Sci.
+   - **Year:** 2023
+   - **Authors:** Bo Ouyang, Binbin Liu, Jinlai Zhang, Jihong Zhu ([Orcid](https://orcid.org/0000-0001-6830-1211)), Lyujie Chen, Qizhi Xie, Yanmei Meng, Weiming Li
+
+4. **Title:** "A Case Study with CICIDS2017 on the Robustness of Machine Learning against Adversarial Attacks in Intrusion Detection."
+   - **DOI:** [http://dx.doi.org/10.1145/3600160.3605031](http://dx.doi.org/10.1145/3600160.3605031)
+   - **Published In:** ARES
+   - **Year:** 2023
+   - **Authors:** Antonio Pecchia, Andrea Del Vecchio, Marta Catillo, Umberto Villano ([Orcid](https://orcid.org/0000-0001-5382-4650))
+
+5. **Title:** "A Lightweight Method for Defense Graph Neural Networks Adversarial Attacks."
+   - **DOI:** [http://dx.doi.org/10.3390/e25010039](http://dx.doi.org/10.3390/e25010039)
+   - **Published In:** Entropy
+   - **Year:** 2023
+   - **Authors:** Jiawang Chen, Ping'an Ren, Zhiliang Yu, Zhenqiang Wu ([Orcid](https://orcid.org/0000-0002-7860-5208)), Zhi Qiao
+
+Feel free to explore these papers for more insights into the topics you are interested in!

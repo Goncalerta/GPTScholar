@@ -1,0 +1,55 @@
+I heard that Mário S. Alvim is a reputable computer scientist. If that's true, he would likely have published some papers. I need examples to prove it.
+------------------
+Here are some examples of papers published by Mário S. Alvim, a reputable computer scientist:
+
+1. Title: A Formal Model for Polarization under Confirmation Bias in Social Networks
+   Published In: Log. Methods Comput. Sci.
+   Year: 2023
+   [DOI](http://dx.doi.org/10.46298/lmcs-19(1:18)2023)
+   
+2. Title: A novel analysis of utility in privacy pipelines, using Kronecker products and quantitative information flow
+   Published In: CoRR
+   Year: 2023
+   [DOI](http://dx.doi.org/10.48550/arxiv.2308.11110)
+   
+3. Title: Analyzing the Shuffle Model through the Lens of Quantitative Information Flow
+   Published In: CoRR
+   Year: 2023
+   [DOI](http://dx.doi.org/10.48550/arxiv.2305.13075)
+   
+4. Title: A novel reconstruction attack on foreign-trade official statistics, with a Brazilian case study
+   Published In: CoRR
+   Year: 2022
+   [DOI](http://dx.doi.org/10.48550/arxiv.2206.06493)
+   
+5. Title: Flexible and scalable privacy assessment for very large datasets, with an application to official governmental microdata
+   Published In: CoRR
+   Year: 2022
+   [DOI](http://dx.doi.org/10.48550/arxiv.2204.13734)
+   
+6. Title: How to build high quality L2R training data: Unsupervised compression-based selective sampling for learning to rank
+   Published In: Inf. Sci.
+   Year: 2022
+   [DOI](http://dx.doi.org/10.1016/j.ins.2022.04.012)
+   
+7. Title: Information Leakage Games: Exploring Information as a Utility Function
+   Published In: ACM Trans. Priv. Secur.
+   Year: 2022
+   [DOI](http://dx.doi.org/10.1145/3517330)
+   
+8. Title: A Multi-agent Model for Polarization Under Confirmation Bias in Social Networks
+   Published In: FORTE
+   Year: 2021
+   [DOI](http://dx.doi.org/10.1007/978-3-030-78089-0_2)
+   
+9. Title: The Impact of Stationarity, Regularity, and Context on the Predictability of Individual Human Mobility
+   Published In: ACM Trans. Spatial Algorithms Syst.
+   Year: 2021
+   [DOI](http://dx.doi.org/10.1145/3459625)
+   
+10. Title: Catuscia Palamidessi: a journey from logic and concurrency to security and privacy
+    Published In: ACM SIGLOG News
+    Year: 2020
+    [DOI](http://dx.doi.org/10.1145/3385634.3385640)
+
+Please note that Mário S. Alvim has an [ORCID](https://orcid.org/0000-0002-4196-7467) associated with his name.

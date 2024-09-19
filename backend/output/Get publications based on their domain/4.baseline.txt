@@ -1,0 +1,16 @@
+I am writing a literature review about reinforcement learning. What publications would you recommend?
+------------------
+There are numerous publications on reinforcement learning that provide valuable insights into the field. Here are some seminal papers and influential publications that would be beneficial for your literature review:
+
+1. "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto.
+2. "Playing Atari with Deep Reinforcement Learning" by Volodymyr Mnih et al.
+3. "Human-level control through deep reinforcement learning" by Volodymyr Mnih et al.
+4. "Deep Reinforcement Learning" by Sergey Levine et al.
+5. "Playing Atari Games with Deep Reinforcement Learning" by Volodymyr Mnih et al.
+6. "Mastering the game of Go with deep neural networks and tree search" by David Silver et al.
+7. "Asynchronous Methods for Deep Reinforcement Learning" by Volodymyr Mnih et al.
+8. "Proximal Policy Optimization Algorithms" by OpenAI.
+9. "Deep Q-Learning" by Volodymyr Mnih et al.
+10. "AlphaGo" by David Silver et al.
+
+These papers cover various aspects of reinforcement learning, including deep reinforcement learning techniques, applications in gaming, and advancements in the field. Note that this list is not exhaustive, and there are many other papers available that could be relevant to your literature review.

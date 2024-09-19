@@ -1,0 +1,26 @@
+I intend to learn about deep learning. Which articles should I start reading?
+------------------
+If you are new to deep learning, here are some articles that can help you get started:
+
+1. "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+   This book is freely available online and provides a comprehensive introduction to deep learning concepts and techniques.
+
+2. "A Gentle Introduction to Deep Learning" by Sebastian Raschka.
+   This article gives an overview of deep learning, its history, and the core components involved, making it an excellent starting point.
+
+3. "Deep Learning: An Introduction for Applied Students" by Alex Smola.
+   This article provides an introduction to deep learning, including its applications, key concepts, and implementation details, with a focus on practical aspects.
+
+4. "The Unreasonable Effectiveness of Deep Learning" by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+   This article discusses the advancements in deep learning and its impressive performance in various domains, highlighting its potential and impacts.
+
+5. "Deep Learning Tutorial" by LISA lab, University of Montreal.
+   This tutorial offers a detailed introduction to deep learning, covering topics like artificial neural networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs).
+
+6. "Understanding Neural Networks and Deep Learning" by Michael Nielsen.
+   This online book provides an in-depth understanding of neural networks and their relationship with deep learning, covering fundamental concepts and building intuition.
+
+7. "Deep Learning 101" by Vincent Granville.
+   This article serves as a high-level introduction to deep learning, giving an overview of its goals, applications, and key algorithms used.
+
+Remember to refer to authoritative sources, such as academic papers or books, as you delve deeper into the subject. Additionally, hands-on experience through coding exercises or projects will greatly enhance your understanding and skills in deep learning.

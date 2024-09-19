@@ -1,0 +1,94 @@
+I want to know more about "Optimization" through papers. Could you give me a list of concrete papers that could interest me?
+------------------
+Here is a list of concrete papers on "Optimization" that could interest you:
+
+1. Title: A Novel Hybrid Whale Optimization Algorithm Differential Evolution Algorithm-Based Maximum Power Point Tracking Employed Wind Energy Conversion Systems for Water Pumping Applications: Practical Realization.
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: 
+     - Dhafer Al-Makhles (ORCID: [0000-0002-5165-0754](https://orcid.org/0000-0002-5165-0754))
+     - Mahajan Sagar Bhaskar (ORCID: [0000-0002-3147-2532](https://orcid.org/0000-0002-3147-2532))
+     - Neeraj Priyadarshi (ORCID: [0000-0001-6620-6771](https://orcid.org/0000-0001-6620-6771))
+
+2. Title: Adaptive ECMS With Gear Shift Control by Grey Wolf Optimization Algorithm and Neural Network for Plug-In Hybrid Electric Buses.
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: 
+     - Mingzhou Xue
+     - Xiang Tian (ORCID: [0000-0001-5032-3885](https://orcid.org/0000-0001-5032-3885))
+     - Zhijia Jin
+     - Xiaodong Sun
+
+3. Title: Adjustable robust optimization with objective uncertainty.
+   - Published In: Eur. J. Oper. Res.
+   - Year: 2024
+   - Authors: 
+     - Enrico Malaguti
+     - Boris Detienne (ORCID: [0000-0003-0554-1407](https://orcid.org/0000-0003-0554-1407))
+     - Henri Lefebvre
+     - Michele Monaci (ORCID: [0000-0001-9978-7613](https://orcid.org/0000-0001-9978-7613))
+
+4. Title: Admission and pricing optimization of on-street parking with delivery bays.
+   - Published In: Eur. J. Oper. Res.
+   - Year: 2024
+   - Authors:
+     - Benjamin Legros
+     - Jan Fransoo (ORCID: [0000-0001-7220-0851](https://orcid.org/0000-0001-7220-0851))
+
+5. Title: Bilevel Quadratic Programming-Based Stability and Energy Saving Control for Electric Vehicles Using Neurodynamic Optimization.
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: 
+     - Kai Deng
+     - Jian Song
+     - Liang Li (ORCID: [0000-0002-1577-408X](https://orcid.org/0000-0002-1577-408X))
+     - Yuefeng Huang
+     - Xiangyu Wang (ORCID: [0000-0003-1155-639X](https://orcid.org/0000-0003-1155-639X))
+
+6. Title: Circuit Implementation of Proximal Projection Neural Networks for Composite Optimization Problems.
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: 
+     - Jintao Wu
+     - Junzhi Yu
+     - Tingwen Huang (ORCID: [0000-0001-9610-846X](https://orcid.org/0000-0001-9610-846X))
+     - Xing He (ORCID: [0000-0001-8652-8479](https://orcid.org/0000-0001-8652-8479))
+     - Youcheng Niu
+
+7. Title: Energy-Aware Optimization of Connected and Automated Electric Vehicles Considering Vehicle-Traffic Nexus.
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: 
+     - Chenglie Du
+     - Jinchao Chen (ORCID: [0000-0001-6234-1001](https://orcid.org/0000-0001-6234-1001))
+     - Yingjie Zhang
+     - Zhao-Hua Liu
+     - Tao You
+     - Ying Zhang
+
+8. Title: Fast Prediction and Staged Optimization of Electromagnetic Vibration in Permanent Magnet Synchronous Motor.
+   - Published In: IEEE Trans. Ind. Electron.
+   - Year: 2024
+   - Authors: 
+     - Dan Shi
+     - Jian-Xin Shen
+     - Lei Yao
+     - Yunchong Wang (ORCID: [0000-0001-7100-9705](https://orcid.org/0000-0001-7100-9705))
+
+9. Title: Multi-armed bandit-based hyper-heuristics for combinatorial optimization problems.
+   - Published In: Eur. J. Oper. Res.
+   - Year: 2024
+   - Authors: 
+     - Felipe Lagos
+     - Jordi Pereira (ORCID: [0000-0002-1736-3575](https://orcid.org/0000-0002-1736-3575))
+
+10. Title: Shared External Driver for VHF Converter With a Synchronous Rectifier Based on Matching Network Parameters Optimization.
+    - Published In: IEEE Trans. Ind. Electron.
+    - Year: 2024
+    - Authors:
+      - Bo Zhang (ORCID: [0000-0001-9172-698X](https://orcid.org/0000-0001-9172-698X))
+      - Dongyuan Qiu (ORCID: [0000-0001-7906-7686](https://orcid.org/0000-0001-7906-7686))
+      - Yanfeng Chen
+      - Tianwei Huang
+
+Please note that some authors may not have an associated ORCID.

@@ -1,0 +1,74 @@
+{
+    "Get publications based on the author": {
+        "baseline": {
+            "correct": 2,
+            "no_results": 4,
+            "hallucinated_publications": 12,
+            "correct_publications": 6,
+            "incorrect": 4,
+            "partially_incorrect_publications": 2
+        },
+        "GPTscholar": {
+            "correct": 6,
+            "no_results": 4,
+            "hallucinated_publications": 0,
+            "correct_publications": 46,
+            "incorrect": 0,
+            "partially_incorrect_publications": 0
+        }
+    },
+    "Get publications based on their domain": {
+        "baseline": {
+            "correct": 1,
+            "no_results": 0,
+            "hallucinated_publications": 20,
+            "correct_publications": 40,
+            "incorrect": 9,
+            "partially_incorrect_publications": 24
+        },
+        "GPTscholar": {
+            "correct": 8,
+            "no_results": 2,
+            "hallucinated_publications": 0,
+            "correct_publications": 47,
+            "incorrect": 0,
+            "partially_incorrect_publications": 0
+        }
+    },
+    "Get publications based on their attributes": {
+        "baseline": {
+            "correct": 2,
+            "no_results": 6,
+            "hallucinated_publications": 12,
+            "correct_publications": 14,
+            "incorrect": 2,
+            "partially_incorrect_publications": 0
+        },
+        "GPTscholar": {
+            "correct": 4,
+            "no_results": 7,
+            "hallucinated_publications": 0,
+            "correct_publications": 16,
+            "incorrect": 0,
+            "partially_incorrect_publications": 0
+        }
+    },
+    "Get publications based on information from another publication": {
+        "baseline": {
+            "correct": 0,
+            "no_results": 6,
+            "hallucinated_publications": 7,
+            "correct_publications": 4,
+            "incorrect": 4,
+            "partially_incorrect_publications": 2
+        },
+        "GPTscholar": {
+            "correct": 4,
+            "no_results": 2,
+            "hallucinated_publications": 6,
+            "correct_publications": 35,
+            "incorrect": 4,
+            "partially_incorrect_publications": 0
+        }
+    }
+}

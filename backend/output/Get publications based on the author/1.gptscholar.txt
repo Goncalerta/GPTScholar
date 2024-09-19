@@ -1,0 +1,9 @@
+Fetch me two papers authored by Leslie Lamport
+------------------
+Here are two papers authored by Leslie Lamport:
+
+1. "Concurrent Algorithms" - Published in Edsger Wybe Dijkstra in 2022. [Link](http://dx.doi.org/10.1145/3544585.3544591)
+
+2. "Deconstructing the bakery to build a distributed state machine" - Published in Commun. ACM in 2022. [Link](http://dx.doi.org/10.1145/3513259)
+
+Please note that Leslie Lamport does not have an ORCID associated with them in the database.

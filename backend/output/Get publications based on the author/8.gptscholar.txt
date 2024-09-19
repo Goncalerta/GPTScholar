@@ -1,0 +1,25 @@
+I've been reading papers from Tom Brown. But I want to read even more papers from him. What is there to read?
+------------------
+Here are some papers that you can read from Tom Brown:
+
+- "Discovering Language Model Behaviors with Model-Written Evaluations." Published in ACL (Findings) in 2023. [DOI](http://dx.doi.org/10.18653/v1/2023.findings-acl.847)
+
+- "The Capacity for Moral Self-Correction in Large Language Models." Published in CoRR in 2023. [DOI](http://dx.doi.org/10.48550/arxiv.2302.07459)
+
+- "A comparison of clustering methods for the spatial reduction of renewable electricity optimisation models of Europe." Published in Energy Inform. in 2022. [DOI](http://dx.doi.org/10.1186/s42162-022-00187-7)
+
+- "Constitutional AI: Harmlessness from AI Feedback." Published in CoRR in 2022. [DOI](http://dx.doi.org/10.48550/arxiv.2212.08073)
+
+- "In-context Learning and Induction Heads." Published in CoRR in 2022. [DOI](http://dx.doi.org/10.48550/arxiv.2209.11895)
+
+- "Inverse methods: How feasible are spatially low-resolved capacity expansion modeling results when dis-aggregated at high resolution?" Published in CoRR in 2022. [DOI](http://dx.doi.org/10.48550/arxiv.2209.02364)
+
+- "Language Models (Mostly) Know What They Know." Published in CoRR in 2022. [DOI](http://dx.doi.org/10.48550/arxiv.2207.05221)
+
+- "Measuring Progress on Scalable Oversight for Large Language Models." Published in CoRR in 2022. [DOI](http://dx.doi.org/10.48550/arxiv.2211.03540)
+
+- "Predictability and Surprise in Large Generative Models." Published in FAccT in 2022. [DOI](http://dx.doi.org/10.1145/3531146.3533229)
+
+- "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned." Published in CoRR in 2022. [DOI](http://dx.doi.org/10.48550/arxiv.2209.07858)
+
+You can click on the DOIs to access the papers. Happy reading!

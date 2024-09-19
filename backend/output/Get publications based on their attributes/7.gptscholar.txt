@@ -1,0 +1,52 @@
+Is there any publication co-authored by Tom Heath and Tim Berners-Lee? If so, give me examples of publications.
+------------------
+Yes, there are publications co-authored by Tom Heath and Tim Berners-Lee. Here are some examples of those publications:
+
+1. Title: LDOW2017: 10th Workshop on Linked Data on the Web.
+   Type: Inproceedings, Publication
+   DOI: http://dx.doi.org/10.1145/3041021.3055510
+   Year: 2017
+   Published in: WWW (Companion Volume)
+   Authors: Sören Auer, Tom Heath, Tim Berners-Lee, Aidan Hogan, Sarven Capadisli, Krzysztof Janowicz, Jens Lehmann, Christian Bizer
+
+2. Title: LDOW2016: 9th Workshop on Linked Data on the Web.
+   Type: Publication, Inproceedings
+   DOI: http://dx.doi.org/10.1145/2872518.2890599
+   Year: 2016
+   Published in: WWW (Companion Volume)
+   Authors: Christian Bizer, Tom Heath, Tim Berners-Lee, Sören Auer
+
+3. Title: LDOW 2013: The 8th Workshop on Linked Data on the Web.
+   Type: Publication, Inproceedings
+   DOI: http://dx.doi.org/10.1145/2740908.2742577
+   Year: 2015
+   Published in: WWW (Companion Volume)
+   Authors: Tim Berners-Lee, Christian Bizer, Tom Heath, Sören Auer
+
+4. Title: 4th linked data on the web workshop (LDOW2011).
+   Type: Inproceedings, Publication
+   DOI: http://dx.doi.org/10.1145/1963192.1963323
+   Year: 2011
+   Published in: WWW (Companion Volume)
+   Authors: Christian Bizer, Tom Heath, Tim Berners-Lee, Michael Hausenblas
+
+5. Title: Linked Data.
+   Type: Publication, Incollection
+   DOI: http://dx.doi.org/10.4018/978-1-60960-593-3.ch008
+   Year: 2011
+   Published in: Semantic Services, Interoperability and Web Applications
+   Authors: Christian Bizer, Tom Heath, Tim Berners-Lee
+
+6. Title: Linked Data - The Story So Far.
+   Type: Publication, Article
+   DOI: http://dx.doi.org/10.4018/jswis.2009081901
+   Year: 2009
+   Published in: Int. J. Semantic Web Inf. Syst.
+   Authors: Christian Bizer, Tom Heath, Tim Berners-Lee
+
+7. Title: Linked data on the web (LDOW2008).
+   Type: Publication, Inproceedings
+   DOI: http://dx.doi.org/10.1145/1367497.1367760
+   Year: 2008
+   Published in: WWW
+   Authors: Kingsley Idehen, Tim Berners-Lee, Tom Heath, Christian Bizer

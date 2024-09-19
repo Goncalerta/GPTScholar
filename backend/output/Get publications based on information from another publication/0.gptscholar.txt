@@ -1,0 +1,63 @@
+Give papers written by the same authors of "From the Semantic Web to social machines: A research challenge for AI on the World Wide Web."
+------------------
+The papers written by the same authors of "From the Semantic Web to social machines: A research challenge for AI on the World Wide Web" are as follows:
+
+1. **Title:** Are Human Explanations Always Helpful?
+   - **DOI:** [http://dx.doi.org/10.18653/v1/2023.acl-long.821](http://dx.doi.org/10.18653/v1/2023.acl-long.821)
+   - **Published In:** ACL (1)
+   - **Year:** 2023
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+2. **Title:** Beyond Labels: Empowering Human with Natural Language Explanations through a Novel Active-Learning Architecture.
+   - **DOI:** [http://dx.doi.org/10.48550/arxiv.2305.12710](http://dx.doi.org/10.48550/arxiv.2305.12710)
+   - **Published In:** CoRR
+   - **Year:** 2023
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+3. **Title:** Leveraging Large Language Models for Mental Health Prediction via Online Text Data.
+   - **DOI:** [http://dx.doi.org/10.48550/arxiv.2307.14385](http://dx.doi.org/10.48550/arxiv.2307.14385)
+   - **Published In:** CoRR
+   - **Year:** 2023
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+4. **Title:** Semantically enabling clinical decision support recommendations.
+   - **DOI:** [http://dx.doi.org/10.1186/s13326-023-00285-9](http://dx.doi.org/10.1186/s13326-023-00285-9)
+   - **Published In:** J. Biomed. Semant.
+   - **Year:** 2023
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+5. **Title:** End-to-End Table Question Answering via Retrieval-Augmented Generation.
+   - **DOI:** [http://dx.doi.org/10.48550/arxiv.2203.16714](http://dx.doi.org/10.48550/arxiv.2203.16714)
+   - **Published In:** CoRR
+   - **Year:** 2022
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+6. **Title:** Knowledge graph semantics.
+   - **DOI:** [http://dx.doi.org/10.1145/3534540.3534709](http://dx.doi.org/10.1145/3534540.3534709)
+   - **Published In:** GRADES-NDA@SIGMOD
+   - **Year:** 2022
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+7. **Title:** Knowledge Graphs: Introduction, History and, Perspectives.
+   - **DOI:** [http://dx.doi.org/10.1609/aimag.v43i1.19119](http://dx.doi.org/10.1609/aimag.v43i1.19119)
+   - **Published In:** AI Mag.
+   - **Year:** 2022
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+8. **Title:** Semiautomated process for generating knowledge graphs for marginalized community doctoral-recipients.
+   - **DOI:** [http://dx.doi.org/10.1108/ijwis-02-2022-0046](http://dx.doi.org/10.1108/ijwis-02-2022-0046)
+   - **Published In:** Int. J. Web Inf. Syst.
+   - **Year:** 2022
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+9. **Title:** AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray.
+   - **DOI:** [http://dx.doi.org/10.1007/978-3-030-87240-3_77](http://dx.doi.org/10.1007/978-3-030-87240-3_77)
+   - **Published In:** MICCAI (5)
+   - **Year:** 2021
+   - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)
+
+10. **Title:** InDO: the Institute Demographic Ontology.
+    - **DOI:** [http://dx.doi.org/10.1007/978-3-030-91305-2_1](http://dx.doi.org/10.1007/978-3-030-91305-2_1)
+    - **Published In:** KGSWC
+    - **Year:** 2021
+    - **Authors:** [James A. Hendler](https://orcid.org/0000-0003-3056-1960)

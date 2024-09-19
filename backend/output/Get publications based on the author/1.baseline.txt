@@ -1,0 +1,9 @@
+Fetch me two papers authored by Leslie Lamport
+------------------
+Here are two papers authored by Leslie Lamport:
+
+1. "Time, Clocks, and the Ordering of Events in Distributed Systems" (1978) - In this seminal paper, Lamport presents the notion of a logical clock and its role in ordering events in a distributed system. It introduces the concept of "happened-before" relationship and provides algorithms for achieving a consistent ordering of events.
+
+2. "The Byzantine Generals Problem" (1982) - This paper addresses the problem of achieving consensus in a distributed system when faulty processes, known as Byzantine generals, may send contradictory messages. Lamport introduces an algorithm called the "Byzantine Generals Problem" algorithm, which provides a solution to the problem and ensures agreement, despite the presence of faulty processes.
+
+Please note that these papers may be subject to copyright and might require access permissions or subscriptions to read.

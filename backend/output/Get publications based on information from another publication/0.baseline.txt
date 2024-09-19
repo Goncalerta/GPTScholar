@@ -1,0 +1,15 @@
+Give papers written by the same authors of "From the Semantic Web to social machines: A research challenge for AI on the World Wide Web."
+------------------
+Unfortunately, I cannot directly access specific papers or provide specific lists of papers written by authors. However, I can try to provide you with some information about the authors who have contributed to the paper "From the Semantic Web to social machines: A research challenge for AI on the World Wide Web."
+
+The paper "From the Semantic Web to social machines: A research challenge for AI on the World Wide Web" was written by Sir Tim Berners-Lee, Wendy Hall, James A. Hendler, and Kieron O'Hara. These authors are well-known and influential in the field of computer science and have made significant contributions to the development of the World Wide Web and related technologies. Here is some general information about these authors:
+
+1. Sir Tim Berners-Lee: Sir Tim Berners-Lee is a computer scientist and the inventor of the World Wide Web. He has made pioneering contributions to the development of web protocols (HTTP), languages (HTML), and the first web browser (WorldWideWeb). He has also been an advocate for an open and decentralized web. Berners-Lee is currently a professor at the Massachusetts Institute of Technology (MIT) and the University of Oxford.
+
+2. Wendy Hall: Wendy Hall is a computer scientist and professor at the University of Southampton. She has been involved in research related to the Semantic Web, Web Science, and Intelligent Agents. Hall has made significant contributions to the development of digital libraries, multimedia retrieval, and web technologies. She is also a founding director of the Web Science Trust and a fellow of the Royal Society.
+
+3. James A. Hendler: James A. Hendler is a computer scientist and professor at Rensselaer Polytechnic Institute. He has contributed to the fields of Artificial Intelligence (AI), Semantic Web, and Web Science. Hendler has been involved in research related to Knowledge Representation, Intelligent Agents, and the application of AI technologies to the World Wide Web. He is a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI) and has received numerous awards for his contributions.
+
+4. Kieron O'Hara: Kieron O'Hara is a philosopher and computer scientist. He was a Senior Research Fellow in Electronics and Computer Science at the University of Southampton when he co-authored the paper in question. O'Hara has research interests in a range of areas, including web science, ethics, privacy, and democracy. He has published various papers and books and has been involved in interdisciplinary research projects.
+
+To find the specific papers written by these authors, it would be best to explore their individual research profiles, academic websites, or use academic search engines like Google Scholar or databases like IEEE Xplore or ACM Digital Library to search for papers written by them.

@@ -1,0 +1,45 @@
+I want to know which other publications were published in ROBIO in year 2016 besides "Modeling and diving control of a vector propulsion AUV".
+------------------
+The other publications that were published in ROBIO in the year 2016, besides "Modeling and diving control of a vector propulsion AUV", are:
+
+1. Title: 3-DOF bionic parallel mechanism design and analysis for a snake-like robot.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866272)
+   Authors: Dong Zhang, Meng Li, Zhengcai Cao, Yili Fu
+
+2. Title: 3D evolutionary pose tracking experiments of eye-vergence visual servoing in lateral motion and arc swing motion.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866384)
+   Authors: Hongzhi Tian, Mamoru Minami, Ryuki Funakubo, Yejun Kou
+
+3. Title: 3D eye model-based gaze estimation from a depth sensor.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866350)
+   Authors: Honghai Liu, Haibin Cai, Hui Yu, Xiaolong Zhou, Zhanpeng Shao
+
+4. Title: 3D map building using the LRF and sinusoidal trajectory of a Quadrotor.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866403)
+   Authors: Howon Lee, GyoungHun Jang, Jang-Myung Lee, TaeEon Kim, Yo-Seop Hwang
+
+5. Title: 3D path following control method for torpedo-type AUVs with uncertainty terms in their dynamics.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866524)
+   Authors: Jin-Ho Suh, Hyung-Joo Kang, Ji-Hong Li, Shuo Li, Sung-Mun Hong
+
+6. Title: 3D printed soft gripper for automatic lunch box packing.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866372)
+   Authors: Damith Suresh Chathuranga, Shinichi Hirai, Zhongkui Wang
+
+7. Title: 3D temperature distribution model based on vision method.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866430)
+   Authors: Mo Tu, Shuai Zhang, Tong Jia, Yuli Jiang
+
+8. Title: A 2-DOF manipulator for micro-assembly in a minifactory.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866553)
+   Authors: Jun Zhang, Ralph L. Hollis
+
+9. Title: A closed loop control algorithm for obstacle avoidance based on the transformation of master and slave tasks.
+   DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866612)
+   Authors: Jianhua Zhang, Jinchang Liu, Minglu Zhang, Kexiang Li, Ping Hu, Xuan Liu
+
+10. Title: A design of a miniaturized prosthetic wrist based on repetition rate of human wrist daily tasks.
+    DOI: [Link](http://dx.doi.org/10.1109/robio.2016.7866563)
+    Authors: Hong Liu, Li Jiang, Shaowei Fan, Shiran Fan
+
+Please note that some authors have ORCID identifiers, which are hyperlinked on their names.

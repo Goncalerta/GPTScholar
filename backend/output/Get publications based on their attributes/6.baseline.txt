@@ -1,0 +1,5 @@
+I am trying to find a publication whose DOI contains "10.1109/ICRA.2016.7487220". Could you help me?
+------------------
+I'm sorry, but as an AI language model, I don't have real-time access to specific databases or content outside of what has been pre-trained on me. I'm unable to browse the internet or access up-to-date information about publications. 
+
+However, if you're looking for a publication with a specific DOI, you can try searching for it on academic search engines or libraries such as Google Scholar, IEEE Xplore, ACM Digital Library, or others. These platforms can help you locate the publication you're looking for by searching for its DOI number.

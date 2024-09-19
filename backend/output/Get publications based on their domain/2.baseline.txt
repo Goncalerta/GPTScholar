@@ -1,0 +1,16 @@
+Give me publications that mention "Information Retrieval".
+------------------
+Here are some publications that mention "Information Retrieval":
+
+1. Manning, Christopher D., et al. "Introduction to Information Retrieval." Cambridge University Press, 2008.
+2. Croft, W. Bruce, et al. "Search Engines: Information Retrieval in Practice." Pearson Education, 2016.
+3. Baeza-Yates, Ricardo, and Berthier Ribeiro-Neto. "Modern Information Retrieval." Addison-Wesley Professional, 1999.
+4. Salton, Gerard. "Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer." Addison-Wesley Professional, 1989.
+5. Spärck Jones, Karen, and P. Willet. "Readings in Information Retrieval." Morgan Kaufmann, 1997.
+6. Croft, W. Bruce, et al. "Relevance Feedback in Information Retrieval." Springer, 2014.
+7. Kowalski, Gerard, and Maximillian Schöbel. "Information Retrieval: Implementing and Evaluating Search Engines." MIT Press, 2016.
+8. Singhal, Amit. "Modern Information Retrieval: A Brief Overview." Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, 2001.
+9. Turtle, Howard, and W. Bruce Croft. "Inference Networks for Document Retrieval." Information Processing & Management, vol. 26, no. 4, 1990, pp. 407-419.
+10. Voorhees, Ellen M. "TREC: Experiment and Evaluation in Information Retrieval." In Handbook of Natural Language Processing, Chapman and Hall/CRC, 2010, pp. 281-298.
+
+Please note that some of these publications may have a narrower focus on specific aspects or subtopics within the field of Information Retrieval.

@@ -1,0 +1,40 @@
+Give me publications that mention "Information Retrieval".
+------------------
+Here are some publications that mention "Information Retrieval":
+
+1. Title: [email protected] 2023: The First Workshop on Generative Information Retrieval
+   - Type: Publication, Inproceedings
+   - DOI: [http://dx.doi.org/10.1145/3539618.3591923](http://dx.doi.org/10.1145/3539618.3591923)
+   - Year: 2023
+   - Published In: SIGIR
+   - Authors: Donald Metzler, Gabriel Bénédict, [Ruqing Zhang](https://orcid.org/0000-0003-4294-2541)
+
+2. Title: A Behavioral Economics Approach to Interactive Information Retrieval - Understanding and Supporting Boundedly Rational Users
+   - Type: Publication, Book
+   - DOI: [http://dx.doi.org/10.1007/978-3-031-23229-9](http://dx.doi.org/10.1007/978-3-031-23229-9)
+   - Year: 2023
+   - Published In: The Information Retrieval Series
+   - Author: [Jiqun Liu](https://orcid.org/0000-0003-3643-2182)
+
+3. Title: A Preliminary Evaluation of ChatGPT in Requirements Information Retrieval
+   - Type: Publication, Informal
+   - DOI: [http://dx.doi.org/10.48550/arxiv.2304.12562](http://dx.doi.org/10.48550/arxiv.2304.12562)
+   - Year: 2023
+   - Published In: CoRR
+   - Authors: Chuang Liu, Jianzhang Zhang, Nan Niu, Yiyang Chen
+
+4. Title: A Query Expansion Benchmark on Social Media Information Retrieval: Which Methodology Performs Best and Aligns with Semantics?
+   - Type: Publication, Article
+   - DOI: [http://dx.doi.org/10.3390/computers12060119](http://dx.doi.org/10.3390/computers12060119)
+   - Year: 2023
+   - Published In: Comput.
+   - Authors: Evangelos A. Stathopoulos, Anastasios I. Karageorgiadis, Alexandros Kokkalas, [Ioannis Kompatsiaris](https://orcid.org/0000-0001-6447-9020), [Stefanos Vrochidis](https://orcid.org/0000-0002-2505-9178), [Sotiris Diplaris](https://orcid.org/0000-0002-9969-6436)
+
+5. Title: A search ranking algorithm for web information retrieval
+   - Type: Article, Publication
+   - DOI: [http://dx.doi.org/10.1504/ijcnds.2023.10045845](http://dx.doi.org/10.1504/ijcnds.2023.10045845)
+   - Year: 2023
+   - Published In: Int. J. Commun. Networks Distributed Syst.
+   - Authors: Huanhuan Wang, Shanshan Zhi
+
+These are just a few examples. If you need more publications or details, feel free to ask.

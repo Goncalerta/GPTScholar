@@ -1,0 +1,11 @@
+I want to know which other publications were published in ROBIO in year 2016 besides "Modeling and diving control of a vector propulsion AUV".
+------------------
+Unfortunately, I do not have access to a specific database that can provide a complete list of publications in the conference proceedings of ROBIO in 2016. However, I can suggest a few ways you can find the information you're looking for:
+
+1. Conference Proceedings: Check the official website of the ROBIO conference or the conference proceedings in which the paper you mentioned was published. Sometimes, conference organizers provide online access to their proceedings or list the publications in a specific section of their website.
+
+2. Academic Databases: Search academic databases like IEEE Xplore, ACM Digital Library, or Google Scholar. These databases often index and include conference proceedings. Searching with keywords related to ROBIO, such as "ROBIO conference proceedings 2016," might help you find the relevant publications from that year.
+
+3. Contact the Authors: If you have access to the paper "Modeling and diving control of a vector propulsion AUV," you can try reaching out to the authors directly and ask if they have a comprehensive list of the publications from ROBIO 2016 or if they can provide any additional references.
+
+By using these approaches, you may be able to gather more information about the other publications in ROBIO 2016.
